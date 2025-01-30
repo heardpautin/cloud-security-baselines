@@ -1,3 +1,4 @@
+y
 # Disable RDP (3389) and SSH (22) access in all NSGs
 $NSGs = Get-AzNetworkSecurityGroup
 
