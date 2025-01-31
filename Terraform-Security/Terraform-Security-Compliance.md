@@ -1,7 +1,5 @@
 # Compliance Mapping for Terraform-Security Security Baseline
 ## 🔒 Security Controls & Compliance Frameworks
-- **CIS Control:** TBD
-- **NIST 800-53:** TBD
 
 ## 📜 Updated Compliance Frameworks
 - **CIS Control:** 5.3 - Infrastructure as Code Security.
