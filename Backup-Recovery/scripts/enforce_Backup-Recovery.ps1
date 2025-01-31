@@ -1,3 +1,2 @@
 # PowerShell script to enforce Backup-Recovery security baseline
-Start-AzRecoveryServicesBackupJob
-Write-Host 'Backup & Recovery baseline applied: Backup job initiated.'
+Write-Host 'Backup-Recovery security baseline script: Automation to be added.'
