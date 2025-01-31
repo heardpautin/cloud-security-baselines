@@ -1,7 +1,5 @@
 # Compliance Mapping for CI-CD-Security Security Baseline
 ## 🔒 Security Controls & Compliance Frameworks
-- **CIS Control:** TBD
-- **NIST 800-53:** TBD
 
 ## 📜 Updated Compliance Frameworks
 - **CIS Control:** 18.5 - Secure Build Process.
